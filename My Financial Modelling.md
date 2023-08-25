@@ -64,6 +64,9 @@ COVID brought good deals, one of them is Appollo's LBO of GCGC. The template is 
 https://utoronto-my.sharepoint.com/:x:/g/personal/thomasjiajun_xu_mail_utoronto_ca/ERGJzN-VRBtPrOai5zhwJ8wBQMsTQbH8dyRhQ3hgLFColQ?e=OgBBY6
 
 
+## Model 6: An LBO? An M&A? A DCF? or Three-Statement Model?????
+-----to be continued......
+
 ## About the author....
 Hey! My name is Thomas Xu, a fourth year student in University of Toronto majoring in economcis and physics. I love high energy physics and finance. I love dealing with companies. I passed the CFA level one and FRM part one now, and kept going to get to higher levels.... 
 
