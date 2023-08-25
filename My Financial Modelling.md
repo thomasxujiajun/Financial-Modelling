@@ -25,22 +25,28 @@ _Financial Modelling was not as easy as it would seems to be. The diffuculty of 
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Enable GitHub Pages
+## Model 1: Converge ICT. Three-Statements Model and DCF Analysis
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+Converge ICT. is an Phillipino company that focused on broad band internet service to both residential and enterprises. This is a relatively simple model since I did not consider the debt structure that much. However, feel free to check it out. My conclusion is Converge ICT. is undervalued.
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+## Model 2: Southwest DCF Analysis
 
-### :keyboard: Activity: Enable GitHub Pages
+This is not a three statement financial model but rather a quick DCF analysis for Southwest. For airlines, we project revenue by capacity (reflected as available seats per mile) and the load factor which reflect the demand (Revenue passenger per mile). Then we deduct operating expenses to get Operating Income (EBIT). Then we multiply by (1-tax rate) to get NOPAT. After making DTL and D&A adjustments, we deduct CapEx to get Free Cash Flow to Firm (FCFF) and get Total Enterprise Value (TEV) via WACC. Then we walk across "bridge" to get the equity value and implied share price. The result shows southwest is clearly undervalued. There are also sensitivity tables that agrees w/ undervaluation conclusion.
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+## Model 3: Lululemon and Aritzia Hypothetical Merger Model
+Lululemon and Aritzia are probably two of the most common store I saw in Canada. Many have impression that they are for women only but that is simply untrue, they have men's too. I personally bought a lot of my clothes from Lululemon and they are quite comfortable. In a stroke of genius, why don't I merge these companies together?
+
+
+We began by projecting Lulu and Aritzia financial separately. Weirdly, none of them have debt balance which made them quite easy to conduct the Debt-driven merger. Lululemon has a much bigger MarketCap, Lululemon will acquire Aritzia with debts. My initial assumptions are Lululemon use only 0.5 x EBITDA of debt to finance the deal. Then I made assumptions about revenue and operating expenses synergy and integeration cost. My excels are quite smart, feel free to tweak around to see sensitivity tests. I calcualted Accretion/Dilution Ratios too. I designed several debt tranches to make the model look more complicated.
+
+## Model 4: Albertsons and Kroger Merger Model
+This is inspired from the real world proposed merger waiting for legislatures to approve. Key assumptions used are the same as the real world transaction. Kroger acquire Alberstons at 34.1 USD per share and finance the deal with around 17 billion USD of debt. OpEx synergy assumptions are adapted from the company's proposal, and realization factos are also used. I made assumptions about revolvers and debt tranches used such that Kroger maintain minimum cash balance after acquisitions. The deal is projected to be dilutive for first two years and be very accretive after the two years. It's a good deal.
+
+## Model 5: Great Canadian Gaming Corporation LBO Model
+COVID brought good deals, one of them is Appollo's LBO of GCGC. The template is from Breaking into Wall Street. But the details and assumptions are made by myself. There are many tranches of debt and revolvers.
+
+
+
 
 <footer>
 
@@ -50,9 +56,5 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 -->
 
 ---
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
