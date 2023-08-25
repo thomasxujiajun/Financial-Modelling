@@ -29,9 +29,14 @@ _Financial Modelling was not as easy as it would seems to be. The diffuculty of 
 
 Converge ICT. is an Phillipino company that focused on broad band internet service to both residential and enterprises. This is a relatively simple model since I did not consider the debt structure that much. However, feel free to check it out. My conclusion is Converge ICT. is undervalued.
 
+https://utoronto-my.sharepoint.com/:x:/g/personal/thomasjiajun_xu_mail_utoronto_ca/ET3YnzYi7LBCr_MS5omA5HYB8QgaO_Ac6ztBP7zPDtPJ9Q?e=NJZbT7
+
 ## Model 2: Southwest DCF Analysis
 
 This is not a three statement financial model but rather a quick DCF analysis for Southwest. For airlines, we project revenue by capacity (reflected as available seats per mile) and the load factor which reflect the demand (Revenue passenger per mile). Then we deduct operating expenses to get Operating Income (EBIT). Then we multiply by (1-tax rate) to get NOPAT. After making DTL and D&A adjustments, we deduct CapEx to get Free Cash Flow to Firm (FCFF) and get Total Enterprise Value (TEV) via WACC. Then we walk across "bridge" to get the equity value and implied share price. The result shows southwest is clearly undervalued. There are also sensitivity tables that agrees w/ undervaluation conclusion.
+
+https://utoronto-my.sharepoint.com/:x:/g/personal/thomasjiajun_xu_mail_utoronto_ca/ES_OPKo4UydGjBZuBf2LVGEBsf5E1zyXvS078mvJ9P7IHg?e=t8AuPt
+
 
 ## Model 3: Lululemon and Aritzia Hypothetical Merger Model
 Lululemon and Aritzia are probably two of the most common store I saw in Canada. Many have impression that they are for women only but that is simply untrue, they have men's too. I personally bought a lot of my clothes from Lululemon and they are quite comfortable. In a stroke of genius, why don't I merge these companies together?
@@ -39,13 +44,28 @@ Lululemon and Aritzia are probably two of the most common store I saw in Canada.
 
 We began by projecting Lulu and Aritzia financial separately. Weirdly, none of them have debt balance which made them quite easy to conduct the Debt-driven merger. Lululemon has a much bigger MarketCap, Lululemon will acquire Aritzia with debts. My initial assumptions are Lululemon use only 0.5 x EBITDA of debt to finance the deal. Then I made assumptions about revenue and operating expenses synergy and integeration cost. My excels are quite smart, feel free to tweak around to see sensitivity tests. I calcualted Accretion/Dilution Ratios too. I designed several debt tranches to make the model look more complicated.
 
+Aritzia Financial Model: 
+https://utoronto-my.sharepoint.com/:x:/g/personal/thomasjiajun_xu_mail_utoronto_ca/EaQB3aPb_tNJvuktLx4eP9wBZCMvMDeKEOdUIpiUG1S3WQ?e=nGu3pr
+
+Lululemon Financial Model:
+https://utoronto-my.sharepoint.com/:x:/g/personal/thomasjiajun_xu_mail_utoronto_ca/EWISzjqs9hNOjQ1SnYs9fc4BBUsgqVamQLobq8R4E1zTOA?e=5euuoe
+
+Lululemon and Aritzia Hypotheical Merger Model:
+https://utoronto-my.sharepoint.com/:x:/g/personal/thomasjiajun_xu_mail_utoronto_ca/EYf3CAHOc-5Lu2CaozduiQwBPALqn7MKfEFfsM7tVXbRLw?e=ywAEvO
+
 ## Model 4: Albertsons and Kroger Merger Model
 This is inspired from the real world proposed merger waiting for legislatures to approve. Key assumptions used are the same as the real world transaction. Kroger acquire Alberstons at 34.1 USD per share and finance the deal with around 17 billion USD of debt. OpEx synergy assumptions are adapted from the company's proposal, and realization factos are also used. I made assumptions about revolvers and debt tranches used such that Kroger maintain minimum cash balance after acquisitions. The deal is projected to be dilutive for first two years and be very accretive after the two years. It's a good deal.
+
+https://utoronto-my.sharepoint.com/:x:/g/personal/thomasjiajun_xu_mail_utoronto_ca/ET6w9i08m1xOt0L0YY6mSjIBg-kgGl5jZIYgGWgjnzb-fw?e=ISC79t
 
 ## Model 5: Great Canadian Gaming Corporation LBO Model
 COVID brought good deals, one of them is Appollo's LBO of GCGC. The template is from Breaking into Wall Street. But the details and assumptions are made by myself. There are many tranches of debt and revolvers.
 
+https://utoronto-my.sharepoint.com/:x:/g/personal/thomasjiajun_xu_mail_utoronto_ca/ERGJzN-VRBtPrOai5zhwJ8wBQMsTQbH8dyRhQ3hgLFColQ?e=OgBBY6
 
+
+## About the author....
+Hey! My name is Thomas Xu, a fourth year student in University of Toronto majoring in economcis and physics. I love high energy physics and finance. I love dealing with companies. I passed the CFA level one and FRM part one now, and kept going to get to higher levels.... 
 
 
 <footer>
