@@ -9,7 +9,9 @@
 
 # Introduction to "My Financial Modelling" Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_This is a page that compiled all the financial models I made for companies over the years. I will keep this page updated and will attempt to get more models and more updates as my free time permitted.
+  Financial Modelling was not as easy as it would seems to be. The diffuculty of financial modelling varies too depending on assumptions and how in-depth you want to dig into the companies. At its easiest stage, it contain no more than linking statements such that the balance sheet is balanced.
+  As a future endeavour to improve the page, I will scale up the difficulty of my financial models to better project companies' financials._
 
 </header>
 
